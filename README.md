@@ -1,3 +1,6 @@
+Note: This is a codecademy exercise to teach about unit testing. Go to the codecademy website to learn more.
+
+
 # Rock Paper Scissors x99
 
 ## Project Overview
